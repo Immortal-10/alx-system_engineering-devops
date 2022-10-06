@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod 775 /dir0/dir1/dir2
-
